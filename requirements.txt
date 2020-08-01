@@ -2,3 +2,5 @@ Flask==1.1.1
 streamlit
 tensorflow >=2.0
 numpy>=1.9.2
+matplotlib>=1.4.3
+
